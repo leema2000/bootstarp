@@ -1,4 +1,4 @@
-# bootstarp
+# bootstrap
 A camera is a SAVE button for the mind's eye.
 <!DOCTYPE html>
 <html lang="en">
